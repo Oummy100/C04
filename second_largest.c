@@ -5,7 +5,6 @@ int main() {
     int n;
 
     // 1. Lire la taille
-    printf("Entrez le nombre d’éléments : ");
     scanf("%d", &n);
 
     if (n < 2) {

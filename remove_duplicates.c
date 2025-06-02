@@ -4,7 +4,6 @@ int main() {
     int n;
 
     // 1. Taille du tableau
-    printf("Entrez le nombre d’éléments : ");
     scanf("%d", &n);
 
     int original[n];

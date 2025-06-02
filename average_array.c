@@ -10,7 +10,6 @@ int main() {
     int somme = 0;
 
     // 2. Lire les éléments
-    printf("Entrez les %d éléments :\n", n);
     for (int i = 0; i < n; i++) {
         scanf("%d", &array[i]);
         somme += array[i];  // 3. Ajouter chaque élément à la somme

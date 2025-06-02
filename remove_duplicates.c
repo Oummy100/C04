@@ -9,7 +9,6 @@ int main() {
     int original[n];
 
     // 2. Lire les éléments
-    printf("Entrez les %d éléments :\n", n);
     for (int i = 0; i < n; i++) {
         scanf("%d", &original[i]);
     }
